@@ -1,1 +1,1 @@
-# This is a Ecommerce web site
+# This is an Ecommerce web site
